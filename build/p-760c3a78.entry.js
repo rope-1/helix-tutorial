@@ -1,0 +1,1 @@
+import{r as t,h as n}from"./p-9e729b80.js";let o=class{constructor(n){t(this,n),this.getCSSClass=()=>this.active?"tab-content-active":"tab-content"}render(){return n("div",{class:this.getCSSClass()},n("slot",null))}};o.style=":host{width:100%}.tab-content{display:none}.tab-content-active{display:block}";export{o as coop_tab_content}

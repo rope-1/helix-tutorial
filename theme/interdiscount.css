@@ -1,0 +1,59 @@
+:root {
+  --white: #fff;
+  --brand-primary: #e20713;
+  --brand-primary-light: #e5202b;
+  --brand-primary-text: #333333;
+  --brand-primary-breadcrumb-separator-color: #777;
+
+  --brand-primary-alert: #e30613;
+
+
+  --brand-primary-link-color: var(--brand-primary-text);
+  --brand-primary-link-separator-color: var(--brand-primary);
+
+  --brand-primary-img-check-color: #A5A5A5;
+
+  --brand-primary-border-color: #DBDBDB;
+
+  --brand-primary-element-bottom-margin: 17px;
+
+  /* Fonts */
+  --font-secondary-regular: 'EB Garamond';
+  --font-secondary-bold: 'Caveat';
+  --font-primary: 'Oswald';
+  --iconfont: 'icomoon';
+  --iconfont-dc: coop-awesome;
+
+  --brand-primary-h1-font-name: var(--font-secondary-bold);
+  --brand-primary-h1-font-size: 32px;
+  --brand-primary-h1-font-line-height: 37px;
+  --brand-primary-h1-color: var(--brand-primary);
+
+  --brand-primary-p-font-name: var(--font-primary);
+  --brand-primary-p-font-size: 21px;
+  --brand-primary-p-font-line-height: 36px;
+  --brand-primary-p-color: var(--brand-primary-text);
+
+  --brand-primary-a-li-font-name: var(--font-primary);
+  --brand-primary-a-li-font-size: 16px;
+  --brand-primary-a-li-font-line-height: 22px;
+
+  --brand-primary-breadcrumb-font-name: var(--font-primary);
+  --brand-primary-breadcrumb-font-size: 14px;
+  --brand-primary-breadcrumb-font-line-height: 19px;
+  --brand-primary-breadcrumb-separator-font: var(--iconfont);
+  --brand-primary-breadcrumb-separator-size: 10px;
+  --brand-primary-breadcrumb-separator-content: "\e604";
+
+  --brand-primary-link-font-name: var(--font-primary);
+  --brand-primary-link-font-size: 16px;
+  --brand-primary-link-font-line-height: 22px;
+  --brand-primary-link-separator-font: var(--iconfont);
+  --brand-primary-link-separator-size: 14px;
+  --brand-primary-link-separator-content: "\e604";
+
+
+  --brand-badge-flag-height: 28px;
+
+}
+

@@ -1,0 +1,65 @@
+:root {
+  /* Colors */
+  --white: #fff;
+  --brand-primary: #0f5e99;
+  --brand-primary-light: #008dd2;
+  --brand-primary-text: #333333;
+  --brand-primary-breadcrumb-separator-color: #777;
+  --brand-primary-alert: #e30613;
+  --brand-primary-link-color: var(--brand-primary-text);
+  --brand-primary-link-separator-color: var(--brand-primary);
+  --brand-primary-img-check-color: #A5A5A5;
+  --brand-primary-expandable-btn-color: #F6F6F6;
+  --brand-primary-border-color: #DBDBDB;
+  --brand-primary-element-bottom-margin: 17px;
+
+  /* Fonts */
+  --font-secondary-regular: 'Coop Regular';
+  --font-secondary-bold: 'Coop Bold';
+  --font-primary: 'Open Sans';
+  --iconfont: 'icomoon';
+  --iconfont-dc: coop-awesome;
+  --iconfont-dc-filter: '\e818';
+  --iconfont-dc-sorting: '\e831';
+
+  --brand-primary-h1-font-name: var(--font-secondary-bold);
+  --brand-primary-h1-font-size: 32px;
+  --brand-primary-h1-font-line-height: 37px;
+  --brand-primary-h1-color: var(--brand-primary);
+
+  --brand-primary-h2-font-name: var(--font-secondary-bold);
+  --brand-primary-h2-font-size: 28px;
+  --brand-primary-h2-font-line-height: 32px;
+  --brand-primary-h2-color: var(--brand-primary-text);
+
+  --brand-primary-p-font-name: var(--font-primary);
+  --brand-primary-p-font-size: 21px;
+  --brand-primary-p-font-size-medium: 18px;
+  --brand-primary-p-font-size-small: 14px;
+  --brand-primary-p-font-line-height: 36px;
+  --brand-primary-p-color: var(--brand-primary-text);
+
+  --brand-primary-a-li-font-name: var(--font-primary);
+  --brand-primary-a-li-font-size: 16px;
+  --brand-primary-a-li-font-line-height: 22px;
+
+  --brand-primary-breadcrumb-font-name: var(--font-primary);
+  --brand-primary-breadcrumb-font-size: 14px;
+  --brand-primary-breadcrumb-font-line-height: 19px;
+  --brand-primary-breadcrumb-separator-font: var(--iconfont);
+  --brand-primary-breadcrumb-separator-size: 10px;
+  --brand-primary-breadcrumb-separator-content: "\e604";
+
+  --brand-primary-link-font-name: var(--font-primary);
+  --brand-primary-link-font-size: 16px;
+  --brand-primary-link-font-line-height: 22px;
+  --brand-primary-link-separator-font: var(--iconfont);
+  --brand-primary-link-separator-size: 14px;
+  --brand-primary-link-separator-content: "\e604";
+
+  --grid-gap: 4.33%;
+
+  --brand-badge-flag-height: 28px;
+
+}
+
